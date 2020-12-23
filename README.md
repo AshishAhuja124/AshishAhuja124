@@ -11,12 +11,12 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg.svg">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>Spring</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg.svg">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg.svg">
       </td>
       <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
@@ -40,6 +40,10 @@
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="25%" align="center">
+        <span>MongoDb</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -48,7 +52,7 @@
       </td>
       <td width="25%" align="center">
         <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
   </tbody>
