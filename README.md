@@ -11,34 +11,16 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>HTML</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
         <span>Angular</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+        <span>NodeJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>ExpressJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
       <td width="25%" align="center">
         <span>MongoDb</span><br><br><br>
@@ -51,16 +33,34 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
-        <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
         <span>BootStrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="25%" align="center">
-        <span>ExpressJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td> 
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>VS Code</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
