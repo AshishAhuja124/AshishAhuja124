@@ -66,14 +66,9 @@
   </tbody>
 </table>  
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AshishAhuja124.AshishAhuja124)
-
-<img src="https://github-readme-stats.vercel.app/api?username=AshishAhuja124&show_icons=true">  
-
 
   
 ### 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=micgogi.micgogi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AshishAhuja124.AshishAhuja124)
 
-<img src="https://github-readme-stats.vercel.app/api?username=micgogi&show_icons=true&theme=dark">  
+<img src="https://github-readme-stats.vercel.app/api?username=AshishAhuja124&show_icons=true&theme=dark">  
