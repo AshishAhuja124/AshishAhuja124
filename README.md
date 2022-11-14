@@ -12,5 +12,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AshishAhuja124.AshishAhuja124)
 
 ### Github Stats
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=AshishAhuja124&theme=highcontrast&show_icons=true&count_private=true)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myvinb&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshishAhuja124&show_icons=true&theme=dark"> 
